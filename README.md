@@ -34,6 +34,10 @@ FontAwesome: Used for scalable icons that enhance the visual design.
 ![image](https://github.com/user-attachments/assets/202f3ec6-3f6a-4220-9cea-f036915c3103)
 
 
+![image](https://github.com/user-attachments/assets/cf88b1b4-1ebe-4af4-a33a-8de0189a76d9)
+
+
+
 ![image](https://github.com/user-attachments/assets/b0d5b8f3-c273-4556-8565-18f048ee68fa)
 
 
